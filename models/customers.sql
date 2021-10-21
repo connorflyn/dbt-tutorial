@@ -1,6 +1,6 @@
 {{
     config(
-        materiazed='view'
+        materialized='view'
     )
 }}
 with customers as (
