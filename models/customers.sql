@@ -1,3 +1,8 @@
+{{
+    config(
+        materiazed='view'
+    )
+}}
 with customers as (
 
     select
